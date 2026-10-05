@@ -32,7 +32,9 @@
 
 <h1 align="center">Anti-Cheat</h1>
 
-<p align="center"><strong>The last anticheat plugin you will ever need to purchase.</strong></p>
+<p align="center"><strong>The most precise simulation-based anticheat for Minecraft 1.8.8.</strong></p>
+
+# Anti-Cheat
 
 **Simulation-based anticheat for Minecraft 1.8.8, powered by PacketEvents 2.0.**
 Engineered for networks that demand the most precise cheat detection available, with over 200 detection methods powered by a full client-side physics prediction engine.
@@ -75,11 +77,11 @@ Anti-Cheat does not rely on Bukkit events, which are processed after the server 
 ### Built for Large Networks
 Designed and stress-tested for servers with 1,000+ concurrent players. Redis handles session and setting storage for sub-millisecond access. Database operations run asynchronously. The alert system is rate-limited to prevent console spam during mass violation events. Auto-kick ensures high-confidence removal of players who accumulate violations across multiple check categories.
 
-### Zero Recurring Costs, True Unlimited License
-One payment grants you a permanent license that covers **all servers you own** — from a single node to a 50-server BungeeCord network. There are no monthly fees, no per-server charges, and no hidden costs.
+### Free, Public Release
+The project is no longer sold. The latest compiled build is publicly available, free of charge, under the **Releases** section — covering every server you own, with no fees, no per-server charges, and no hidden costs.
 
 ### Direct Access to the Developer
-When a cheater bypasses a check at peak time, you do not file a ticket and wait three days. You speak directly to the person who wrote the detection algorithm. Support is available **24/7** through Discord or Bale.
+When a cheater bypasses a check at peak time, you do not file a ticket and wait three days. You speak directly to the person who wrote the detection algorithm. However, note that active support is **no longer provided**, as development is currently suspended.
 
 ---
 
@@ -99,9 +101,9 @@ When a cheater bypasses a check at peak time, you do not file a ticket and wait 
 | **Storage backends** | SQLite, MySQL, PostgreSQL, MongoDB, Redis | MySQL/SQLite | Flat/MySQL | MySQL | MySQL | Usually MySQL only |
 | **Discord webhooks** | Configurable embeds with rate limiting | No | Via addon | No | No | Rare |
 | **Folia support** | Yes | Yes | No | Yes | No | Rare |
-| **License model** | Permanent, all servers | Free | Free | Paid | Free | Often per-server or recurring |
+| **License model** | Free, public release | Free | Free | Paid | Free | Often per-server or recurring |
 
-**Key takeaway:** Anti-Cheat is the only plugin that combines a full physics prediction engine, 200+ detection methods, 5 storage backends, and Discord webhook integration — with one purchase that covers every server you run.
+**Key takeaway:** Anti-Cheat is the only plugin that combines a full physics prediction engine, 200+ detection methods, 5 storage backends, and Discord webhook integration — in a single free public release.
 
 ---
 
@@ -288,10 +290,10 @@ Hot-swappable backend configuration with automatic connection management:
 A: Yes. Anti-Cheat has full ViaVersion compatibility for cross-version servers.
 
 **Q: How does the license work?**
-A: One payment of **€30.00** grants you a permanent license that covers every server you own. There are no recurring fees, no per-server charges, and no hidden costs.
+A: No license is sold. The project has been suspended and the latest build is available free of charge under the **Releases** section.
 
-**Q: Can I test the plugin before buying?**
-A: Contact `Nerotek01` on Discord to arrange a trial.
+**Q: Can I test the plugin?**
+A: Yes. Connect to `mc.hypeland.org` to experience the plugin on a live server — no registration required.
 
 ### Technical Questions
 
@@ -313,38 +315,33 @@ A: The auto-kick requires violations across multiple check categories (minimum 2
 ### Support
 
 **Q: How do I get help if something breaks?**
-A: You have 24/7 direct access to the developer via Discord (`Nerotek01`) or Bale (`Nerotek`). There are no tickets, no forums, and no canned replies.
+A: Active support is **no longer provided**, as development is suspended. You may still contact the developer, but no official assistance is guaranteed.
 
 **Q: Are updates free?**
-A: All updates for the current major version are included with your permanent license.
+A: No further updates are planned. The current build is the final public release.
 
 ---
 
 ## Support & Purchasing
 
-**Anti-Cheat** is a premium plugin sold exclusively by the developer.
+**This project is no longer sold.** As stated in the Project Notice above, development has been suspended indefinitely and commercial distribution has been discontinued.
 
-### How to Purchase
+### How to Get the Plugin
+The latest compiled **JAR** is publicly available, free of charge, under the **Releases** section of this repository. Download it, drop it into your `plugins/` folder, and use it as-is.
+
+### No Purchase, No License Fee
+There is no price, no license key, no loader, and no payment of any kind. The project is released publicly for anyone to use.
+
+### Sponsorship & Resumption
+If you are interested in **sponsoring this project** or joining a **development team** to resume it, please contact the developer directly. Sponsorship is the only path toward continued development.
+
+### Contacts
 - **Discord:** `Nerotek01`
 - **Bale (Iranian users):** `Nerotek`
-- **Price:** **€30.00** — one-time payment, permanent license.
+- **Demo server:** `mc.hypeland.org`
 
-### License
-**Permanent, all-servers license.** Your purchase covers every server you own — from a single node to a 50-server BungeeCord network. There are no recurring fees, no per-server charges, and no hidden costs.
-
-### What You Receive
-- The complete Anti-Cheat plugin JAR.
-- 200+ detection methods with simulation-based prediction engine.
-- PacketEvents 2.0 integration for packet-level analysis.
-- All 5 storage backends (SQLite, MySQL, PostgreSQL, MongoDB, Redis).
-- Punishment system with configurable groups and auto-kick.
-- Discord webhook integration for violation alerts.
-- PlaceholderAPI and LuckPerms integration.
-- Free updates for the current major version.
-- **24/7 priority support** via Discord or Bale.
-
-### Support Promise
-When a cheater bypasses a check on your live network, you do not file tickets and hope for a reply. You speak directly with the developer — the person who wrote every detection algorithm. Your server integrity is our reputation.
+### Support
+Active support is **no longer provided**, as development is suspended. The community may still discuss the plugin, but no official assistance is guaranteed.
 
 ---
 
