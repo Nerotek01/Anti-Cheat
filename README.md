@@ -34,8 +34,6 @@
 
 <p align="center"><strong>The last anticheat plugin you will ever need to purchase.</strong></p>
 
-# Anti-Cheat
-
 **Simulation-based anticheat for Minecraft 1.8.8, powered by PacketEvents 2.0.**
 Engineered for networks that demand the most precise cheat detection available, with over 200 detection methods powered by a full client-side physics prediction engine.
 Tailored for servers hosting more than 1,000 players, every check runs through exhaustive verification algorithms that replicate exactly what the vanilla client would do — so legitimate players are never false-flagged, and cheaters are caught with surgical accuracy.
