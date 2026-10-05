@@ -1,9 +1,34 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/version-latest%20stable-blue?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/detection-200%2B%20methods-red?style=for-the-badge" alt="Detection Methods">
-  <img src="https://img.shields.io/badge/license-permanent%20all--servers-success?style=for-the-badge" alt="License">
-  <a href="https://discord.gg/YOUR_REAL_INVITE_CODE"><img src="https://img.shields.io/badge/support-24%2F7%20discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT%20SUSPENDED-8B0000?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/SUPPORT-DISCONTINUED-8B0000?style=for-the-badge" alt="Support">
+  <img src="https://img.shields.io/badge/UPDATES-PAUSED-8B0000?style=for-the-badge" alt="Updates">
+  <img src="https://img.shields.io/badge/DISTRIBUTION-PUBLIC%20JAR-555555?style=for-the-badge" alt="Distribution">
 </p>
+
+---
+
+<h2 align="center"><code>PROJECT NOTICE — DEVELOPMENT SUSPENDED</code></h2>
+
+<p align="center"><em>Effective immediately, this project has been placed on indefinite hold.</em></p>
+
+---
+
+**Reason for suspension.** Active development has been halted due to limited funding, insufficient development time, and the absence of a complete development team.
+
+**Release version.** The build currently available under the **Releases** section is an **in-development (pre-release) version**, not a finalized production build. As such, a number of **minor, low-visibility features may not function as intended**. The core systems are stable, but small edge cases and secondary details were still being refined at the time development was paused.
+
+**Current terms of the project.**
+
+- Support is **no longer provided**.
+- No further updates will be released.
+- The compiled **JAR** of the latest build remains publicly available under the **Releases** section.
+- The project may be downloaded and used in its current state, as-is.
+
+**Regarding the source code.** Open-sourcing the source is **not possible** at this time due to licensing restrictions.
+
+**Resumption of development.** Should a **sponsor or development team** come forward, development will resume immediately. For sponsorship or support inquiries, please contact the developer directly.
+
+---
 
 <h1 align="center">Anti-Cheat</h1>
 
